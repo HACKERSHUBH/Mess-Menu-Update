@@ -1,5 +1,5 @@
 /**
- * Created by Thomas on 5/28/2015.
+ * Created by Shubham Sharma on 8/11/2017.
  */
 var app = angular.module('groceryListApp', ["ngRoute"]);
 
